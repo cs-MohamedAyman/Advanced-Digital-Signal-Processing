@@ -3,18 +3,23 @@
 # Advanced-Digital-Signal-Processing `40H`
 Advanced digital signal processing lectures for computer science students.
 
-## Part 3: Digital Filters and Complex Techniques `40H` 
+## Part 3: Complex Techniques `40H` 
 
-### Lecture 15 - [Fast Fourier Transform (FFT) Convolution and Correlation]()
-### Lecture 16 - [Fast Fourier Transform (FFT) Digital Filter Design]()
-### Lecture 17 - [Finite Impulse Response (FIR) Filters]()
-### Lecture 18 - [Infinite Impulse Response (IIR) Filters]()
-### Lecture 19 - [Non-Recursive Filters I]()
-### Lecture 20 - [Non-Recursive Filters II]()
-### Lecture 21 - [Recursive Filters I]()
-### Lecture 22 - [Recursive Filters II]()
-### Lecture 23 - [Analog Filters]()
-### Lecture 24 - [Filter Comparison and Custom Filters]()
+### Lecture 15 - [Complex Analysis III]()
+### Lecture 16 - [Fast Fourier Transform (FFT)]()
+### Lecture 17 - [FFT Convolution and Correlation]()
+### Lecture 18 - [FFT Digital Filter Design]()
+### Lecture 19 - [Finite Impulse Response (FIR) Filters]()
+### Lecture 20 - [Infinite Impulse Response (IIR) Filters]()
+
+## Part 4: Digital Filters `40H` 
+
+### Lecture 21 - [Non-Recursive Filters I]()
+### Lecture 22 - [Non-Recursive Filters II]()
+### Lecture 23 - [Recursive Filters I]()
+### Lecture 24 - [Recursive Filters II]()
+### Lecture 25 - [Analog Filters]()
+### Lecture 26 - [Filter Comparison and Custom Filters]()
 
 <img align="right" width="80" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/textbooks.jpg">
 
