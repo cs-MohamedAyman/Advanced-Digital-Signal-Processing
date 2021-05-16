@@ -1,12 +1,13 @@
-<img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/digital-signal-processing.jpg">
-
 # Advanced-Digital-Signal-Processing
 Advanced digital signal processing lectures for computer science students.
 
-<img align="right" width="150" height="150" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
+<img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/digital-signal-processing.jpg">
+<br>
 <br>
 
 ## `Part 3` Complex Techniques `40 hrs`
+
+<img align="right" width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 
 ### Lecture 15 - [Complex Analysis III]()
 <details>
@@ -74,10 +75,13 @@ Advanced digital signal processing lectures for computer science students.
   - 
 </details>
 
-<img align="right" width="150" height="150" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
+<img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/digital-signal-processing.jpg">
+<br>
 <br>
 
 ## `Part 4` Digital Filters `40 hrs`
+
+<img align="right" width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 
 ### Lecture 21 - [Non-Recursive Filters I]()
 <details>
@@ -145,10 +149,13 @@ Advanced digital signal processing lectures for computer science students.
   - 
 </details>
 
-<img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice2.jpg">
+<img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/digital-signal-processing.jpg">
+<br>
 <br>
 
 ## `Assignments` `5 hrs`/`Assignment`
+
+<img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice2.jpg">
 
 ### `Assignment 01` - 
 ### `Assignment 02` - 
@@ -161,10 +168,13 @@ Advanced digital signal processing lectures for computer science students.
 ### `Assignment 09` - 
 ### `Assignment 10` - 
 
-<img align="right" width="150" height="150" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/educational-projects.jpg">
+<img align="right" width="120" height="120" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/digital-signal-processing.jpg">
+<br>
 <br>
 
 ## `Educational-Projects` `10 hrs`/`Project`
+
+<img align="middle" width="900" height="225" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/educational-projects.jpg">
 
 |`Project 01` | `Project 02` | `Project 03` | `Project 04` |
 |:----:|:----:|:----:|:----:|
