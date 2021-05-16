@@ -5,7 +5,7 @@ Advanced digital signal processing lectures for computer science students.
 <br>
 <br>
 
-## `Part 3` Complex Techniques `40 hrs`
+## `Part 3` Complex Techniques `30 hrs`
 
 <img align="right" width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 
@@ -79,7 +79,7 @@ Advanced digital signal processing lectures for computer science students.
 <br>
 <br>
 
-## `Part 4` Digital Filters `40 hrs`
+## `Part 4` Digital Filters `30 hrs`
 
 <img align="right" width="160" height="160" src="https://github.com/cs-MohamedAyman/Computer-Science-Textbooks/blob/master/logos/practice1.jpg">
 
